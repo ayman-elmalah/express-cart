@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50fc3474-a712-4026-8e6f-62108f4796df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jqUE4H74D7S83xqZgi6YHV3Wyr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/auth" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\js\express-cart\validators\admin\pages" />
+      <recent name="E:\js\express-cart\views\components\messages" />
+      <recent name="E:\js\express-cart\views\partials" />
+      <recent name="E:\js\express-cart\views\web\home" />
+      <recent name="E:\js\express-cart\views\web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\js\express-cart\views\auth" />
+      <recent name="E:\js\express-cart\views\admin\products" />
+      <recent name="E:\js\express-cart\validators\admin\products" />
+      <recent name="E:\js\express-cart\views\admin\categories" />
+      <recent name="E:\js\express-cart\validators\admin\categories" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50fc3474-a712-4026-8e6f-62108f4796df" name="Default Changelist" comment="" />
+      <created>1604531000856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604531000856</updated>
+      <workItem from="1604531001933" duration="1950000" />
+      <workItem from="1604591341983" duration="12740000" />
+      <workItem from="1604664601888" duration="1755000" />
+      <workItem from="1604693600949" duration="3282000" />
+      <workItem from="1604744264119" duration="4827000" />
+      <workItem from="1604788869835" duration="2387000" />
+      <workItem from="1604956214362" duration="3223000" />
+      <workItem from="1605040943344" duration="2840000" />
+      <workItem from="1605211361379" duration="1142000" />
+      <workItem from="1605565534616" duration="987000" />
+      <workItem from="1605640177275" duration="6141000" />
+      <workItem from="1605721439294" duration="1523000" />
+      <workItem from="1605820699004" duration="4830000" />
+      <workItem from="1606425338503" duration="6603000" />
+      <workItem from="1606478648989" duration="3877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1202" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604753983814">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1202" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604753983814" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1604665239547">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604665239547" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604603714335">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604603714335" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/express-cart.iml" filepath="$PROJECT_DIR$/.idea/express-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nodeapituts/.idea/nodeapituts.iml" filepath="$PROJECT_DIR$/../nodeapituts/.idea/nodeapituts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nodetuts/.idea/nodetuts.iml" filepath="$PROJECT_DIR$/../nodetuts/.idea/nodetuts.iml" />
+    </modules>
+  </component>
+</project>

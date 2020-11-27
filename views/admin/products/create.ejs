@@ -1,0 +1,46 @@
+<%- include('../_layouts/header') %>
+
+<h2 class="page-title">Add a product</h2>
+<a href="/admin/products" class="btn btn-primary">Back to all products</a>
+<br><br>
+
+<form method="post" action="/admin/products/store" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="">Title</label>
+        <input type="text" class="form-control" name="title" value="<%= title %>" placeholder="Title">
+    </div>
+
+    <div class="form-group">
+        <label for="">Slug</label>
+        <input type="text" class="form-control" name="slug" value="<%= slug %>" placeholder="Slug">
+    </div>
+
+    <div class="form-group">
+        <label for="">Price</label>
+        <input type="text" class="form-control" name="price" value="<%= price %>" placeholder="price">
+    </div>
+
+    <div class="form-group">
+        <label for="">Image</label>
+        <input type="file" class="form-control" name="image" id="image">
+        <img src="#" id="imagePreview" alt="Image">
+    </div>
+
+    <div class="form-group">
+        <label for="">Category</label>
+        <select name="category" id="category" class="form-control">
+            <% categories.forEach(function (category) { %>
+                <option value="<%= category.slug %>"><%= category.title %></option>
+            <% }) %>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="">Description</label>
+        <textarea name="description" class="form-control ckeditor" cols="30" rows="10" placeholder="description"><%= description %></textarea>
+    </div>
+
+    <button class="btn btn-default">Submit</button>
+</form>
+
+<%- include('../_layouts/footer') %>
